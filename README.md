@@ -34,7 +34,7 @@ matopiba-extreme-rainfall/
 ## Data Availability & Zenodo Archive
 
 The full daily precipitation NetCDF dataset (`MATOPIBA_dado_diario_1979_2020.nc`) and the IBGE microregional shapefiles are permanently archived on Zenodo:
-- **Zenodo Repository DOI:** 10.5281/zenodo.XXXXXXX
+- **Zenodo Repository DOI:** 10.5281/zenodo.24203638
 
 To run the scripts, download the data package from Zenodo and extract the files into the `data/` folder following the directory structure above.
 
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 ## Citation
 If you use this repository or dataset, please cite:
-Earth Systems and Environment (2026). DOI: 10.1007/s41748-026-xxxxx-x
+Earth Systems and Environment (2026). DOI: (Under Review).
 
 ## License
 MIT License
